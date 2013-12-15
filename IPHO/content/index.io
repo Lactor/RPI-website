@@ -1,43 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
-    <script type="text/javascript" src="http://latex.codecogs.com/latexit.js"></script>
-    <title>
-      Treino das IPHO - Portugal
-    </title>
-    <meta content="" name="description" />
-    <meta content="" name="keywords" />
-    <link href="style.css" media="all" rel="stylesheet" type="text/css" />
-
-    <!--[if lt IE 9]> <script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script><![endif]-->
-  </head>
-  <body>
-    <header>
-      <h1>
-        Página de treino das IPHO - Portugal
-      </h1>
-      <nav>
-        <ul>
-          <li><a href="index.html">Início</a></li>
-
-          <li><a href="Mecanica.html">Mecânica</a></li>
-
-          <li><a href="Electro.html">ElectroMagnetismo</a></li>
-
-          <li><a href="Termo.html">Termodinâmica</a></li>
-
-          <li><a href="Moderna.html">Física Moderna</a></li>
-
-          <li><a href="Experimental.html">Análise de Dados</a></li>
-
-          <li><a href="Matematica.html">Matemática</a></li>
-
-          </li>
-        </ul>
-      </nav>
-    </header>
-    <main>
+/
 <h3>Objectivo</h3>
 <p>
 O objectivo desta página é servir como guia e ajuda para o estudo dos alunos Olímpicos de Física, pensando particularmente nas competições internacionais. Este site não substituirá um treino embora tentarei torná-lo o mais completo possível.
@@ -68,10 +29,3 @@ Devido ao objectivo dos textos, preparação olímpica, estes provavelmente não
 <p>
 Se tiveres alguma dúvida ou questão ou sugestão, por favor contacta-me em no mail em baixo.
 </p>
-    </main>
-     <footer>
-      <p>Contactos:</p>
-      <p>Francisco Machado:fmachado@mit.edu</p>
-    </footer>
-  </body>
-</html>
